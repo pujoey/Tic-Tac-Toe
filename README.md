@@ -11,7 +11,7 @@
 - Provide a Reset Game button that will clear the contents of the board. 
 
 ---
-### Project Wireframe
+### Project Screenshot
 
 ![Tic-Tac-Toe Image](https://i.imgur.com/sbviL9P.png =300x "Tic-Tac-Toe")
 
