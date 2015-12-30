@@ -1,0 +1,48 @@
+<!-- 
+-Display an empty tic-tac-toe board when the page is initially displayed.
+-A player can click on the nine cells to make a move.
+-Every click will alternate between marking an X and O.
+-Once occupied with an X or O, the cell cannot be played again.
+-Provide a Reset Game button that will clear the contents of the board. 
+-->
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+	<meta charset="UTF-8">
+	<title>Tic-Tac-Toe</title>
+	<link href='https://fonts.googleapis.com/css?family=Fascinate+Inline' rel='stylesheet' type='text/css'>
+	<link rel="stylesheet" href="css/style.css">
+	
+</head>
+<body>
+<h1 id="hand">TIC-TAC-TOE</h1>
+<p id="result">Player 1</p>
+
+<div class="buttonRow">
+<button id="button1" class="depth" type="button">New Game</button>
+<button id="button2" class="depth" type="button">1P</button>
+<button id="button3" class="depth" type="button">2P</button>
+</div>
+
+<div class="board">
+	<div id="one" class="box"></div>
+	<div id="two" class="box"></div>
+	<div id="three" class="box"></div>
+	<div id="four" class="box"></div>
+	<div id="five" class="box"></div>
+	<div id="six" class="box"></div>
+	<div id="seven" class="box"></div>
+	<div id="eight" class="box"></div>
+	<div id="nine" class="box"></div>
+</div>
+
+<audio controls>
+  <source src="img/URBAN ASSAULT - DROP THE BASS.mp3" type="audio/mpeg">
+Your browser does not support the audio element.
+</audio>
+
+	<script src="js/main.js"></script>
+</body>
+</html>
+
