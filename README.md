@@ -13,8 +13,7 @@
 ---
 ### Project Wireframe
 
-![John Titor Mockup](https://i.imgur.com/uOsYDWc.png =300x "Mockup")
-![Actual Page](https://i.imgur.com/b8SvFNt.png =300x "Image")
+![Tic-Tac-Toe Image](https://i.imgur.com/sbviL9P.png =300x "Tic-Tac-Toe")
 
 ---
 ### Technology Used
@@ -24,7 +23,7 @@
  [HTML](https://developer.mozilla.org/en-US/docs/Web/HTML)| [Sublime](http://www.sublimetext.com/) | [GitHub](https://github.com/) 
  [CSS](http://www.w3schools.com/css/) | |  
   [JavaScript](https://www.javascript.com/)| | | 
-[DOM Manipulation](https://www.dom.com/) |
+[DOM Manipulation](https://developer.mozilla.org/en-US/docs/Web/API/Document_Object_Model) |
 
 ---
 ### Project Challenges
