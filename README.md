@@ -1,6 +1,9 @@
 <img align="left" alt="GA logo." title="General Assemb.ly" src="https://github.com/generalassembly/ga-ruby-on-rails-for-devs/raw/master/images/ga.png" height="90px">
 
 # Tic-Tac-Toe WDI DTLA 6 Project 0 Weekend Porject
+
+![Tic-Tac-Toe Image](https://i.imgur.com/sbviL9P.png =300x "Tic-Tac-Toe")
+
 ---
 ### Project Requirement
 
@@ -11,9 +14,9 @@
 - Provide a Reset Game button that will clear the contents of the board. 
 
 ---
-### Project Screenshot
+### About This Game
 
-![Tic-Tac-Toe Image](https://i.imgur.com/sbviL9P.png =300x "Tic-Tac-Toe")
+Tic-tac-toe has two game modes 1P vs Computer or 2P,  take turns marking the spaces in a 3×3 grid. The player who succeeds in placing three of their marks in a horizontal, vertical, or diagonal row wins the game.  To make the game more challenging X and O are replaced by graphically similar images and the grid is constantly rotating to confuse players.
 
 ---
 ### Technology Used
